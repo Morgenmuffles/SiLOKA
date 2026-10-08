@@ -1,0 +1,103 @@
+Basic Web Devloper
+	1. HTML
+	2. CSS
+	3. Javascript
+	4. jQuery (ajax)
+	5. Desain Responsive
+	6. PHP Backend
+	7. Database MySQL
+	-- Menyatukan semuanya --
+
+Pertemuan ke 2
+
+	1. belajar struktur website (hubungan HTML,CSS,JS)
+	2. belajar mengedit file template/HTML (hapus, tambah, edit)
+
+Pertemuan ke 3
+	
+	1. belajar mengatur tampilan USER FRONTEND dan USER BACKEND (administrator)
+	2. belajar buat tampilan HTML (Desain Responsive)
+	3. belajar basic javascript (file js tambahan atau trigger tambahan)
+
+Pertemuan ke 4 (project 3)
+	
+	1. belajar basic pengenalan jquery
+	2. penerapan jquery ke project HTML (login.html) run effect
+	
+Pertemuan ke 5 (project 4)
+	1. mulai membuat proses dari form menggunakan PHP
+	2. belajar menggunakan method POST dan GET
+		a. POST (metode pengiriman data yang aman (dikirim dari latar belakang) dan sekali request)
+		b. GET (metode pengiriman data yang tidak aman (dikirim melalui URL) dan berjalan selagi URL masih ada
+	3. membuat database di localhost/phpmyadmin
+	4. belajar buat database/table 
+	5. mengenal tipe data di database
+
+Pertemua ke 6 (project 5)
+	1. proses pemeriksaan ketersedian data di table database
+	
+Pertemuan ke 7 (project 6)
+	1. membuat sistem login $_SESSION (perintah skrip php untuk menyuruh browser mengingat string yang terkandung dalam variable sesi)
+	2. mengambil data berdasarkan primary data yang login (fecth data dari database)
+	3. membangun logika pemrogramman (IF ELSE) study case mencagah masuke ke halaman credential menggunakan if session
+	4. SELECT data WHERE ($_SESSION)
+
+
+Pertemuan ke 8 (project 7)
+	1. belajar membuat sistem dynamic pages / halaman dinamis (menggunakan sistem include)
+	2. belajar mendesain halaman2 umum / profile,contact, data (table) - tugas
+
+Pertemuan ke 9 (project 8)
+	1. menghubungkan / memanggil data profile,contact,data (table)
+	2. profile.php : SELECT where ->  session 
+	3. contact.php : SELECT while : looping data
+
+Pertemuan ke 10 (project 9) - mighty.web.id - CRUD otomatis
+	1. data table : SELECT while (belajar CRUD : CREATE (insert), READ (select), UPDATE (mengubah/edit), DELETE)
+	
+Pertermuan ke 11 (project 10) - CRUD manual
+	1. SELECT while di table dan memberi penomoran
+	2. sistem include module kedalam project
+	
+Pertemuan ke 12 (project 11) - Belajar Code Editor Dreamweaver
+	1. pengertian tentang sistem mudular dari mightyweb - masukan hasil generator ke dalam folder modules
+	2. pembangunan logika if untuk keperluan manipuasi sistem - footer.php
+			mengatasi jquery yang betumpuk di footer.php agar jika ./?folder=modules diakses jquery yang di footer hilang
+	3. UPDATE SINGLE DATA - profile.php - CR(U)D manual
+	4. membatsi user yang bisa melihat menu2 penting (sistem level user) - sidebar.php
+
+Pertemuan ke 13 (project 12) - belajar menyempurnakan dasar desain dan pemanfaatan sistem project
+	1. menggunakan unsur tambahan plugin code editor (summernote) di form
+	2. menambahkan sistem keamanan di session user login untuk data sensitif
+		(tidak bisa akses modules jika level bukan Admin)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
